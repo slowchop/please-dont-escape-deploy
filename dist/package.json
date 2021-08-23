@@ -1,0 +1,19 @@
+{
+  "name": "please-dont-escape",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slowchop/please-dont-escape"
+  },
+  "files": [
+    "please_dont_escape_bg.wasm",
+    "please_dont_escape.js",
+    "please_dont_escape.d.ts",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ],
+  "module": "please_dont_escape.js",
+  "types": "please_dont_escape.d.ts",
+  "sideEffects": false
+}
